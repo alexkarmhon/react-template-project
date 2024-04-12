@@ -1,16 +1,23 @@
 {
-  "name": "react-homework-template",
+  "name": "react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://github.com/alexkarmhon/react-template-project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+    "formik": "^2.4.5",
+    "nanoid": "^5.0.6",
+    "modern-normalize": "^2.0.0",
+    "prop-types": "^15.8.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-icons": "^5.0.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.3"
+    "styled-components": "^6.1.8",
+    "web-vitals": "^2.1.3",
+    "yup": "^1.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,5 +43,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
+    "eslint": "8.56.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-prettier": "5.1.3",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0"
   }
 }
