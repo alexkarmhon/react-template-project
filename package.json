@@ -2,7 +2,7 @@
   "name": "react-template-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/alexkarmhon/react-template-project/",
+  "homepage": "https://alexkarmhon.github.io/react-template-project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
